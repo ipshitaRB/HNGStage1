@@ -1,4 +1,4 @@
 # HNGStage1
 ## Task 1
 
-This is a simple git repository
+This is a sample git repository
